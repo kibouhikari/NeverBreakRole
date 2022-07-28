@@ -8,7 +8,7 @@
 # こっちも見てね！:[公式wiki(まだ存在しません)](https://github.com/kibouhikari/NeverBreakRole)
 
 # クレジット
-[**SuperNewRoles**](https://github.com/ykundesu/SuperNewRoles)<br>
+[SuperNewRoles](https://github.com/ykundesu/SuperNewRoles)<br>
 このMODがなければNBRはできませんでした
 
 [TheOtherRoles](https://github.com/Eisbison/TheOtherRoles)
