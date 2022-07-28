@@ -1,5 +1,5 @@
 # NeverBreakRole
-![SNRImage](/images/SNRImage.png)
+![NBRImage](/images/SNRImage.png)
 
 ## 公式との関係性について
 このMODは**非公式**MODです。<br>
